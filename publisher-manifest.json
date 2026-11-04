@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f6443607f58193b332949c0d",
+  "owner": "jcpaept",
+  "repo": "page-68c397397112af83dc170528",
+  "title": "FastNode",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "68c397397112af83dc170528",
+      "a": "FastNode",
+      "b": "",
+      "entity": "FastNode",
+      "brand": "FastNode",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d3e6c310c6a47db3c72892a53d7b8161ea4a732547af666ef53147d36ab623ba",
+      "content": {
+        "keyword1": "FastNode",
+        "keyword2": "",
+        "primary_entity": "FastNode",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "FastNode 服务说明页：介绍 FastNode 机场的基础版、旗舰版与团队版套餐价格与权益、客户端使用流程与常见问题，帮助你在订阅前了解各项细节。",
+          "AI_DESCRIPTION": "FastNode 服务说明页：介绍 FastNode 机场的基础版、旗舰版与团队版套餐价格与权益、客户端使用流程与常见问题，帮助你在订阅前了解各项细节。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--brown:#2b1d14;--brown-2:#3a2a1e;--mint:#9fe8c8;--mint-deep:#5cc79b;--cream:#f3eee6;--ink:#241811;--muted:#6f5f52}\n*{margin:0;padding:0;box-sizing:border-box}\nbody{background:var(--cream);color:var(--ink);font-family:-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.9;font-size:16px}\na{color:var(--mint-deep);text-decoration:none}\na:hover{text-decoration:underline}\n.topbar{background:var(--brown);color:var(--mint);font-size:13px;padding:10px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}\n.topbar .brand{font-weight:700;letter-spacing:.14em}\n.topbar nav a{color:var(--mint);margin-left:18px;font-size:13px}\n.hero{max-width:760px;margin:0 auto;padding:72px 24px 48px}\n.hero .kicker{font-size:13px;letter-spacing:.28em;color:var(--mint-deep);text-transform:uppercase;margin-bottom:20px}\nh1{font-size:clamp(28px,5vw,44px);line-height:1.35;font-weight:800;color:var(--brown);margin-bottom:28px}\n.hero p.lede{font-size:18px;color:var(--brown-2);margin-bottom:20px}\n.hero p{margin-bottom:20px;color:var(--muted)}\n.hero .rule{border:none;border-top:1px solid var(--mint);margin:36px 0 0}\nmain{max-width:760px;margin:0 auto;padding:0 24px 80px}\nsection{margin-top:64px}\nh2{font-size:24px;color:var(--brown);margin-bottom:8px;font-weight:800}\nh3{font-size:17px;color:var(--brown-2);margin:28px 0 8px}\n.sec-note{font-size:14px;color:var(--muted);margin-bottom:28px}\n.plan{padding:36px 0;border-top:1px solid rgba(43,29,20,.15)}\n.plan:first-of-type{border-top:2px solid var(--brown)}\n.plan .head{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px}\n.plan h3{margin:0;font-size:20px}\n.plan .price{font-size:26px;font-weight:800;color:var(--brown)}\n.plan .annual{font-size:13px;color:var(--mint-deep)}\n.plan ul{list-style:none;margin-top:16px}\n.plan li{padding:6px 0;color:var(--muted)}\n.plan li::before{content:\"—\";color:var(--mint-deep);margin-right:10px}\n.tag{display:inline-block;background:var(--brown);color:var(--mint);font-size:12px;padding:2px 10px;border-radius:2px;margin-left:10px;vertical-align:middle;letter-spacing:.1em}\n.steps{counter-reset:s}\n.step{padding:20px 0;border-bottom:1px dashed rgba(43,29,20,.2)}\n.step::before{counter-increment:s;content:\"0\" counter(s);display:block;font-size:13px;color:var(--mint-deep);letter-spacing:.2em;margin-bottom:4px}\n.step p{color:var(--muted);font-size:15px}\ndetails{border-bottom:1px solid rgba(43,29,20,.15);padding:16px 0}\nsummary{cursor:pointer;font-weight:600;color:var(--brown);list-style:none}\nsummary::before{content:\"+\";color:var(--mint-deep);margin-right:12px;font-weight:700}\ndetails[open] summary::before{content:\"−\"}\ndetails .ans{padding:10px 0 4px 26px;color:var(--muted);font-size:15px}\nfooter{background:var(--brown);color:var(--mint);padding:36px 24px;text-align:center;font-size:13px}\nfooter a{color:var(--mint);margin:0 10px}\n@media(max-width:600px){.topbar nav a{margin-left:10px}}\n</style><header class=\"topbar\">\n  <span class=\"brand\">FASTNODE</span>\n  <nav>\n    <a href=\"#intro\">关于</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#usage\">使用说明</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<div class=\"hero\" id=\"intro\">\n  <div class=\"kicker\">SERVICE NOTES · 服务说明</div>\n  <h1>FastNode：把选择线路这件事，尽量简化</h1>\n  <p class=\"lede\">网络加速服务的体验，往往不取决于宣传页上的形容词，而取决于流量额度是否够用、同时在线的设备是否受限、以及遇到问题时能否得到答复。本文以说明书的方式，客观列出 FastNode 的三档套餐、通用使用流程与常见问题，供订阅前核对。</p>\n  <p>FastNode 提供按月与按年两种计费周期。按年付费相对按月付费有一定折扣，具体差额已在各套餐条目下标注。不同套餐的主要区别在于每月流量、设备数量与线路类型，读者可按自己的使用强度对号入座，不必为超出需求的功能付费。</p>\n  <hr class=\"rule\">\n</div>\n\n<main>\n  <section id=\"plans\">\n    <h2>套餐与价格</h2>\n    <p class=\"sec-note\">以下三档套餐均为公开计费标准，价格以页面标注为准。如需变更套餐，可在账户内按剩余周期折算处理，细则以订阅页说明为准。</p>\n\n    <article class=\"plan\">\n      <div class=\"head\">\n        <h3>基础版</h3>\n        <span class=\"price\">¥15/月</span>\n      </div>\n      <p class=\"annual\">按年付仅需 ¥150/年</p>\n      <ul>\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"plan\">\n      <div class=\"head\">\n        <h3>旗舰版<span class=\"tag\">推荐</span></h3>\n        <span class=\"price\">¥35/月</span>\n      </div>\n      <p class=\"annual\">按年付仅需 ¥350/年</p>\n      <ul>\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"plan\">\n      <div class=\"head\">\n        <h3>团队版</h3>\n        <span class=\"price\">¥85/月</span>\n      </div>\n      <p class=\"annual\">按年付仅需 ¥850/年</p>\n      <ul>\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n  </section>\n\n  <section id=\"usage\">\n    <h2>使用说明</h2>\n    <p class=\"sec-note\">从订阅到客户端连通，通常按以下四个步骤进行。具体客户端下载地址以订阅后账户内提供的入口为准。</p>\n    <div class=\"steps\">\n      <div class=\"step\">\n        <h3>注册并选择套餐</h3>\n        <p>使用邮箱注册账户，在套餐页面选择基础版、旗舰版或团队版，并确认按月或按年计费周期。</p>\n      </div>\n      <div class=\"step\">\n        <h3>获取订阅链接</h3>\n        <p>支付完成后，在账户仪表盘复制个人订阅链接。该链接包含全部节点配置，请勿对外泄露。</p>\n      </div>\n      <div class=\"step\">\n        <h3>导入客户端</h3>\n        <p>在你所使用的平台上安装兼容订阅格式的客户端，将订阅链接粘贴导入，客户端会自动同步节点列表。</p>\n      </div>\n      <div class=\"step\">\n        <h3>选择节点并连接</h3>\n        <p>按延迟或用途选择节点：日常浏览可选普通线路，观看流媒体或游戏建议选用旗舰版对应的专线节点。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <p class=\"sec-note\">以下问答覆盖订阅前后的高频问题。未覆盖的内容可通过工单联系支持团队。</p>\n\n    <details>\n      <summary>流量用完后会怎样？</summary>\n      <div class=\"ans\">当套餐内月流量用尽后，服务将暂停至下个计费周期自动重置，也可在账户内升级至更高档位套餐以立即获得更多流量。</div>\n    </details>\n    <details>\n      <summary>设备数量超限会如何处理？</summary>\n      <div class=\"ans\">同时在线设备达到套餐上限后，新设备将无法建立连接。可在已连接设备中断开一台，或升级至支持更多设备的套餐。</div>\n    </details>\n    <details>\n      <summary>按月订阅可以随时取消吗？</summary>\n      <div class=\"ans\">按月订阅不自动续费，到期即停止服务，无需手动取消。按年订阅在周期内持续有效，到期后同样不自动扣费。</div>\n    </details>\n    <details>\n      <summary>流媒体解锁不成功怎么办？</summary>\n      <div class=\"ans\">请先确认当前套餐包含流媒体解锁权益，并切换至标注支持流媒体的节点。若仍无法播放，可提交工单说明平台与地区，支持团队会协助排查。</div>\n    </details>\n    <details>\n      <summary>订阅链接泄露了如何处理？</summary>\n      <div class=\"ans\">在账户仪表盘重置订阅链接即可使旧链接失效，随后在各客户端重新导入新链接。</div>\n    </details>\n  </section>\n</main>\n\n<footer>\n  <p>FastNode 服务说明页</p>\n  <p><a href=\"#plans\">套餐</a>·<a href=\"#usage\">使用说明</a>·<a href=\"#faq\">常见问题</a></p>\n</footer>",
+          "hash": "b516ee529ad1b68251d54fb8ca6d29f3c3a8d37c90c251334605728c2b5428b1",
+          "seo": {
+            "title": "FastNode官网｜FastNode机场套餐、客户端与使用说明",
+            "keywords": "FastNode,FastNode官网,FastNode机场,FastNode机场官网,机场套餐,机场客户端,机场使用说明",
+            "description": "FastNode 服务说明页：介绍 FastNode 机场的基础版、旗舰版与团队版套餐价格与权益、客户端使用流程与常见问题，帮助你在订阅前了解各项细节。"
+          },
+          "provider": "deepseek",
+          "model": "kimi-k3",
+          "design": {
+            "no": "1668",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dongkengjob.cn",
+    "host": "p-1503876de7.dongkengjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "829bf3f2672cb555a842e04f9ea8a0a8e6b69ca08cf708e952553bbcb757bc7a",
+    "sitemap.xml": "88c551bdeca38fbb5744a264a2b0520fdd5081998723598a7d063a068e7233c1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fcb32c2edb474b2315b30b4d286dfc96fc3385fadf2462814adb65f0b9abae5c",
+    "robots.txt": "4c51546c5fb60212387851a1eea61e4dde3e7c7c655d1da44602ba23a5a4cabf",
+    "5bd849e0ca6bf5e4eeec4550c5c97383.txt": "e3b65087bebf414784b97221152f3836d7475b233b7bd9d4fa119cc0261a3300"
+  },
+  "revision": "07226f40fde13909d1b7237ff3e12d8477a735f77f9c1d36e080e84237fdca56"
+}
